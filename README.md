@@ -182,4 +182,4 @@ The dashboard preview is available below:
 
 📸 Dashboard Preview
 
-Dashboard File: blinkit-sales-dashboard.png
+Dashboard File: Screenshot 2026-09-15 132355.png
