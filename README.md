@@ -182,4 +182,4 @@ The dashboard preview is available below:
 
 📸 Dashboard Preview
 
-Dashboard File: Screenshot 2026-09-15 132355.png
+Dashboard File:https://github.com/snehasahu01/Blinkit-powerbi-dashboard/blob/main/Screenshot%202026-09-15%20132355.png
